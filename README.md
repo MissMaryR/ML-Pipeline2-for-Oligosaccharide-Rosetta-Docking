@@ -57,6 +57,12 @@ run with
    python 1_shap.py
    ```
 
+
+<img width="2400" height="1800" alt="shap_bar_plot" src="https://github.com/user-attachments/assets/76850705-ede4-45ab-a507-71b43bd7ff8b" />
+
+
+
+
 ## 3. run 2_model.py based on the top 15 shap features
 - generates a plot based on the top 15 features
 - uses
@@ -82,3 +88,12 @@ run with
    ```
    python 2_model.py
    ```
+
+
+<img width="2400" height="1800" alt="shap_bar_plot_top15" src="https://github.com/user-attachments/assets/89bbdc7e-1c9b-4731-9f3c-35b8296c9ffa" />
+
+
+<img width="2400" height="1800" alt="swarm_violin_top15_thresholded" src="https://github.com/user-attachments/assets/943d37c6-7fee-4a30-b1c8-3f0f1516cc86" />
+
+
+
