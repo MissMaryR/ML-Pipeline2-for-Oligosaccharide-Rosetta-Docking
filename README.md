@@ -90,10 +90,7 @@ run with
    ```
 
 
-<img width="2400" height="1800" alt="shap_bar_plot_top15" src="https://github.com/user-attachments/assets/89bbdc7e-1c9b-4731-9f3c-35b8296c9ffa" />
+<img width="2400" height="1800" alt="shap_bar_plot_top15" src="https://github.com/user-attachments/assets/6d0a268a-446f-4f56-a576-70bd7819256b" />
 
-
-<img width="2400" height="1800" alt="swarm_violin_top15_thresholded" src="https://github.com/user-attachments/assets/943d37c6-7fee-4a30-b1c8-3f0f1516cc86" />
-
-
+<img width="2400" height="1800" alt="swarm_violin_top15_thresholded" src="https://github.com/user-attachments/assets/ff2793dc-8b6e-42bc-91d7-d2a19674e982" />
 
